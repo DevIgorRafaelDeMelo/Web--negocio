@@ -1,4 +1,4 @@
-html {
+htmlabout-innerhtml {
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   font-family: sans-serif;
@@ -2133,8 +2133,7 @@ h1 {
   line-height: 120%;
 }
 
-h2 {
-  color: var(--primary);
+h2 { 
   margin-top: 0;
   margin-bottom: 0;
   font-size: 40px;
